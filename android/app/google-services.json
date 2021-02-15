@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660261360082",
+    "project_id": "dalelak-304020",
+    "storage_bucket": "dalelak-304020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660261360082:android:c87c4e5ead7a7b8cdd780b",
+        "android_client_info": {
+          "package_name": "com.app.dalelak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660261360082-9l9rdll97hhiqoel3sccdtc46q983q0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.dalelak",
+            "certificate_hash": "91764ba447874783e973b7d8ef735d91c2d87ec0"
+          }
+        },
+        {
+          "client_id": "660261360082-gbng75gj9msk8fn6tnku3is9rr4onhfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARx282PKkBz2s4_XWmIFPTfbKuMkwDfNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660261360082-gbng75gj9msk8fn6tnku3is9rr4onhfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
